@@ -1,6 +1,6 @@
 # Media Discord Bot
 
-Dies ist ein moderner Discord-Bot für Moderation, Support, Logging, Tickets, Verifizierung und viele weitere Features – perfekt für deinen Community-Server.
+Dies ist ein moderner Discord-Bot für Media Anliegen perfekt für roleplay server.
 
 ---
 
